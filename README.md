@@ -63,6 +63,6 @@ Run npm install to install all dependencies. To use the application locally, run
 
 
 ## Repository
-- [Project Repo](https://asostoa.github.io/Employee-Tracker)
+- [Project Repo](https://github.com/Asostoa/Employee-Tracker)
 ## GitHub 
 - [GitHub Profile](https://github.com/Asostoa)
