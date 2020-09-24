@@ -4,12 +4,13 @@ const consoleTable = require("console.table");
 const promisemysql = require("promise-mysql");
 const asciify = require('asciify-image');
 
+//Properties for the Ascii Logo
 const options = {
   fit: 'box',
   width: 48,
   height: 48
 }
-
+//Funtion that convertes the logo picture into a Ascii art
 function nasa() {
   asciify('./assets/nasa.png', options)
     .then(function (asciified) {
@@ -21,6 +22,8 @@ function nasa() {
       console.error(err);
     });
 }
+
+
 // Connection Properties
 const connectionProperties = {
   host: "localhost",
