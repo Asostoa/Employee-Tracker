@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asostoa/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asostoa/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Asostoa/Employee-Tracker#readme",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "asciify-image": "^0.1.6",
+    "async": "^3.2.0",
+    "canvas": "^2.6.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "promise-mysql": "^4.1.3"
+  }
+}
