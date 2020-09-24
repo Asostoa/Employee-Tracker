@@ -23,7 +23,7 @@ This is an application that allows a company to keep track of all of the Astrona
 ## Table of contents
 
 - [Description](#Description)
-- [MySQL tables](#MySQL)
+- [MySQL tables](#MySQLtables)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Licence](#License)
