@@ -33,7 +33,7 @@ This is an application that allows a company to keep track of all of the Astrona
 
   ## Installation
 Clone the repository to your local development environment.
-```git clone https://github.com/asostoa/Employee-Tracker.git```
+```git clone git@github.com:Asostoa/Employee-Tracker.git```
  
 Navigate to the developer-profile-generator folder using the command prompt.
 Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI.
