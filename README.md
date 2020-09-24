@@ -23,6 +23,7 @@ This is an application that allows a company to keep track of all of the Astrona
 ## Table of contents
 
 - [Description](#Description)
+-[MySQL Tables](# MySQL tables)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Licence](#License)
@@ -40,7 +41,7 @@ Run npm install to install all dependencies. To use the application locally, run
 
   ## Usage
 
-- This application uses MySQL workbench as the database to store the information about the Apollo Program and the Astronauts's.
+- This application uses MySQL workbench as the database to store the information about the Apollo Program and the Astronauts.
 - This is a node application that uses inquirer to retrieve information from the user. Using the information that is retrieve to run a different set of query's to the database depending on the action that the user wishes to make.
 - To end the applicatin select the option of "Exit" this will kill your server and exit the application;
  ## Directory 
