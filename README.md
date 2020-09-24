@@ -1,4 +1,4 @@
-# Employee-Tracker
+# Astronaut-Tracker
 ![Badge](https://img.shields.io/github/license/asostoa/Employee-Tracker)
 ![BadgeGithub](https://img.shields.io/github/followers/asostoa?style=social)
 ![BadgeSize](https://img.shields.io/github/repo-size/asostoa/Employee-Tracker)
